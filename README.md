@@ -1,7 +1,8 @@
 # ***Color Identification***
 > **Implement a color detector to 'Images' or 'Videos'**
->> **CNN model used for training with giving 84% in training accuracy and 76% for testing.**
->> **To use detector in videos and in real detection you can use script in Color "Real Detection.ipynb" file.**
+>> 1. **CNN model used for training with giving 84% in training accuracy and 76% for testing.**
+>> 
+>> 2. **To use detector in videos and in real detection you can use script in Color "Real Detection.ipynb" file.**
 >
 > ------
 > 
