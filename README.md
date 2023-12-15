@@ -8,3 +8,7 @@
 > 
 > **Training dataset from Kaggle you can find it in**
 >>**https://www.kaggle.com/datasets/imoore/6000-store-items-images-classified-by-color/data**
+>
+> ------
+> **Video**
+>> **https://youtu.be/lox9m579Mjc**
